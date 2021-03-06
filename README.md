@@ -61,6 +61,7 @@ Step 3:<br />
      - The above execution will return to R2, charAt(0) of **ter** is **t**. So far we have **ret**.<br />
      - The above will return to R1, charAt(0) of **eter** is **e**. So far we have **rete**.<br />
      - The above will return to R0, charAt(0) of **Peter** is **P**. So we will have **reteP**.<br />
+     - Return control to the calling fuction, that is the main method.
      - Wow! we have reversed our string using recursion.<br />
 
 
