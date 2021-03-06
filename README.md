@@ -45,11 +45,11 @@ Step 3:<br />
      - Our condition at line 2 will be true and recursion will exit. So part 1 has completed it execution.<br />
      - Let's see the summary of how part 1 executed. The **R** below stands for Recursion, that is recursion 1 to 5.<br />
      ```
-      input => Peter
-      R1 ====> eter
-      R2 ====> ter
-      R3 ====> er
-      R4 ====> r
+      input => Peter<br />
+      R1 ====> eter<br />
+      R2 ====> ter<br />
+      R3 ====> er<br />
+      R4 ====> r<br />
       R5 ====> exit recursion and retun control to part 2, this will start at R4. <br />
      ```
      - Let's see how part 2 will execute.<br />
