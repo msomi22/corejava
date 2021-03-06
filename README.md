@@ -26,8 +26,12 @@ Now, let's dissect the above code.
 
 Step 1:<br />
      - The method is called with input **s** holding literal **Peter**.<br />
+
+
 Step 2:<br />
      - We check whether the string **s** is empty and at this point it is not. So we skip line 3.<br />
+
+
 Step 3:<br />
      - Line 4 is a very important.<br />
      - It has two parts,<br />
@@ -50,6 +54,8 @@ Step 3:<br />
       R3 ====> er <br />
       R4 ====> r <br />
       R5 ====> exit recursion and retun control to part 2, this will start at R4. <br />***
+      
+      
      - Let's see how part 2 will execute.<br />
      - So, recusrion ended and returned control to the second part with **s** having value **r**.<br />
      - R4 ====> charAt(0) of **r** is **r** <br />
@@ -58,3 +64,5 @@ Step 3:<br />
      - The above will return to R1, charAt(0) of **eter*** is **e**. So far we have **rete**.<br />
      - The above will return to R0, charAt(0) of **Peter** is **P**. So we will have **reteP**.<br />
      - Wow! we have reversed our string using recursion.<br />
+
+
