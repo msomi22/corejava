@@ -53,7 +53,7 @@ Step 3:<br />
       R2 ====> ter <br />
       R3 ====> er <br />
       R4 ====> r <br />
-      R5 ====> exit recursion and retun control to part 2, this will start at R4. <br />***
+      R5 ====> exit recursion and return control to part 2, this will start at R4. <br />***
      - Let's see how part 2 will execute.<br />
      - So, recusrion ended and returned control to the second part with **s** having value **r**.<br />
      - R4 ====> charAt(0) of **r** is **r** <br />
