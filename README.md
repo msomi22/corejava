@@ -4,7 +4,7 @@ Dear reader,
 
 We are going to learn various string manipulation techniques in Java.
 
-To start with, we will learn String reversing using recursion.
+To start with, we will learn string reversing using recursion.
 
 Let's hit the ground running.
 
