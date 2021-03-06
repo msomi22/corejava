@@ -18,7 +18,7 @@ private static stringReverse(String s){ // line 1
   if(s.isEmpty()){ //line 2
     return s; //line 3
   }
-  return stringReverse(s.subString(1)) + s.charAt(0) //line 4
+  return stringReverse(s.substring(1)) + s.charAt(0) //line 4
 }
 ```
 
