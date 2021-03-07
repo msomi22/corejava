@@ -66,4 +66,4 @@ Step 3:<br />
 
 See how to reverse an Integer [Reverse Integer](https://github.com/msomi22/corejava/edit/main/RI_README.md)
 
-See how to count occurence of characters in a string [Count Occurence] (https://github.com/msomi22/corejava/edit/main/CC_Readme.md) 
+See how to count occurence of characters in a string [Count Occurence](https://github.com/msomi22/corejava/edit/main/CC_README.md)
