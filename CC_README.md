@@ -1,5 +1,7 @@
 # Counter character occurence in a string
 
+Dear reader,
+
 Let's consider the below code
 
 ```java
