@@ -66,12 +66,12 @@ Step 3:<br />
      - Return control to the calling fuction, that is the main method.<br />
      - Wow! we have reversed our string using recursion.<br />
 
-See how to reverse an Integer [Reverse Integer](https://github.com/msomi22/corejava/edit/main/RI_README.md)
+See how to reverse an Integer [Reverse Integer](https://github.com/msomi22/corejava/tree/main/files/RI_README.md)
 
-See how to count occurence of characters in a string [Count Occurence](https://github.com/msomi22/corejava/edit/main/CC_README.md)
+See how to count occurence of characters in a string [Count Occurence](https://github.com/msomi22/corejava/tree/main/files/CC_README.md)
 
-See how to calculate power of a number [Calculate Power](https://github.com/msomi22/corejava/edit/main/CP_README.md) 
+See how to calculate power of a number [Calculate Power](https://github.com/msomi22/corejava/tree/main/files/CP_README.md) 
 
-See Fibinacci via recursion [Fibonacci Recursion](https://github.com/msomi22/corejava/blob/main/FIB_README.md)
+See Fibinacci via recursion [Fibonacci Recursion](https://github.com/msomi22/corejava/tree/main/files/FIB_README.md)
 
 
