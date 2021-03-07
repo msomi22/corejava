@@ -1,5 +1,7 @@
 # Calculate power of a number
 
+Dear reader,
+
 Let's see the below snippet
 
 ```java
