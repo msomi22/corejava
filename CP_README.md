@@ -35,7 +35,7 @@ public class Demo {
 
 ```
 
-out put
+output
 
 ```java
  8 power 6 = 262,144
