@@ -76,4 +76,4 @@ See Fibinacci via recursion [Fibonacci Recursion](https://github.com/msomi22/cor
 
 See the CGD solution [GCD recursion](https://github.com/msomi22/corejava/blob/main/files/GCD_README.md)
 
-
+See the LCM solution [LCM Solution](https://github.com/msomi22/corejava/blob/main/files/LCM_README.md)
