@@ -70,4 +70,6 @@ See how to count occurence of characters in a string [Count Occurence](https://g
 
 See how to calculate power of a number [Calculate Power](https://github.com/msomi22/corejava/edit/main/CP_README.md) 
 
+See Fibinacci via recursion [Fibonacci Recursion](https://github.com/msomi22/corejava/blob/main/FIB_README.md)
+
 
