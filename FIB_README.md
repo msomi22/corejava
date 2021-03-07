@@ -14,13 +14,13 @@ With the two numbers we are good to go.
 
 **0+1=1** so the next number is **1**
 
-We have **0,1,1***
+We have **0,1,1**
 
 **1+1=2** so our next number is **2**
 
-So far, **0,1,1,2***
+So far, **0,1,1,2**
 
-**1+2=3*** so our sequence is **0,1,1,2,3** and so on.
+**1+2=3** so our sequence is **0,1,1,2,3** and so on.
 
 Let's see a simple Java code via recursion.
 
