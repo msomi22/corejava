@@ -18,7 +18,7 @@ public class Demo {
 		double result = 1;
 		int i = p;
 		/**
-		 * We intent to achieve the following
+		 * We intend to achieve the following
 		 * 
 		 * (8*6) + (8*5) + (8*4) + (8*3) + (8*2) + (8*1)
 		 */
