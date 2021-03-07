@@ -6,13 +6,13 @@
 
 Let's consider two numbers **30 and 45**
 
-Below are factors/multiples of the two numbers. Basically, numbers that can divind the two without a remainder.
+Below are factors/multiples of the two numbers. Basically, numbers that can divide the two without a remainder.
 
 - 1, 2, 3, 5 and 15
 
 So the GCD is 15
 
-The key concept is that the number we are looking for should devind the given two numbers without a remainder.
+The key concept is that the number we are looking for should divide the given two numbers without a remainder.
 
 **That means num1%target == 0 && num2%target == 0**
 
