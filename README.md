@@ -1,4 +1,4 @@
-# Core Java - Code snippet and exlanations.
+# Core Java - Code snippets and exlanations.
 
 ## String reverse via recursion.
 
