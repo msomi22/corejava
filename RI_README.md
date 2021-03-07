@@ -1,5 +1,7 @@
 # Reversing an integer
 
+Dear reader,
+
 Let's consinder an number **66473**, reversed would be **37466**.
 
 So, how would we reverse?
