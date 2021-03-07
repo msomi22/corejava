@@ -1,4 +1,6 @@
-# Core Java - String reverse via recursion.
+# Core Java - Code snippet and exlanations.
+
+## String reverse via recursion.
 
 Dear reader,
 
