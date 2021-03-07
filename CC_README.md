@@ -1,4 +1,4 @@
-#Counter character occurence in s string
+# Counter character occurence in s string
 
 Let's consider the below code
 
