@@ -74,4 +74,6 @@ See how to calculate power of a number [Calculate Power](https://github.com/msom
 
 See Fibinacci via recursion [Fibonacci Recursion](https://github.com/msomi22/corejava/tree/main/files/FIB_README.md)
 
+See the CGD solution [GCD recursion](https://github.com/msomi22/corejava/blob/main/files/GCD_README.md)
+
 
