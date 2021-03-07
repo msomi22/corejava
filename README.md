@@ -64,4 +64,6 @@ Step 3:<br />
      - Return control to the calling fuction, that is the main method.<br />
      - Wow! we have reversed our string using recursion.<br />
 
+See how to reverse an Integer [Reverse Integer](https://github.com/msomi22/corejava/edit/main/RI_README.md)
+
 
