@@ -75,6 +75,12 @@ public class Graph2 {
 	 * remove root from queue and add it to the visited list
 	 * add all adjacent nodes to the queue, repeat the above
 	 * for each node.
+	 * 
+	 * uses
+	 * -Garbage collection
+	 * -Broadcasting in networks
+	 * -GPS navigation
+	 * -Social networking websites
 	 */
 
 	void bfs(int root) {
